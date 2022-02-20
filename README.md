@@ -10,17 +10,17 @@ So there is no need to fiddle around on the backside located jacks of your Artur
 I choosed to use 2 seperate cables so theoretically you can place all drum gates in a separate module in your rack.  
 
 # the passive module
-[<img src="media/arturia-beatstep-pro-eurorack-breakout-module-01.jpg" height="260" />](https://github.com/othmar52/beatstep-pro-breakout/blob/master/media/arturia-beatstep-pro-eurorack-breakout-module-01.jpg?raw=true)
-[<img src="media/arturia-beatstep-pro-eurorack-breakout-module-02.jpg" height="260" />](https://github.com/othmar52/beatstep-pro-breakout/blob/master/media/arturia-beatstep-pro-eurorack-breakout-module-02.jpg?raw=true)
-[<img src="media/arturia-beatstep-pro-eurorack-breakout-module-03.jpg" height="260" />](https://github.com/othmar52/beatstep-pro-breakout/blob/master/media/arturia-beatstep-pro-eurorack-breakout-module-03.jpg?raw=true)
-[<img src="media/arturia-beatstep-pro-eurorack-breakout-module-04.jpg" height="260" />](https://github.com/othmar52/beatstep-pro-breakout/blob/master/media/arturia-beatstep-pro-eurorack-breakout-module-04.jpg?raw=true)
+[<img src="media/arturia-beatstep-pro-eurorack-breakout-module-01.jpg" height="260" />](https://github.com/othmar52/beatstep-pro-breakout/blob/main/media/arturia-beatstep-pro-eurorack-breakout-module-01.jpg?raw=true)
+[<img src="media/arturia-beatstep-pro-eurorack-breakout-module-02.jpg" height="260" />](https://github.com/othmar52/beatstep-pro-breakout/blob/main/media/arturia-beatstep-pro-eurorack-breakout-module-02.jpg?raw=true)
+[<img src="media/arturia-beatstep-pro-eurorack-breakout-module-03.jpg" height="260" />](https://github.com/othmar52/beatstep-pro-breakout/blob/main/media/arturia-beatstep-pro-eurorack-breakout-module-03.jpg?raw=true)
+[<img src="media/arturia-beatstep-pro-eurorack-breakout-module-04.jpg" height="260" />](https://github.com/othmar52/beatstep-pro-breakout/blob/main/media/arturia-beatstep-pro-eurorack-breakout-module-04.jpg?raw=true)
 
 
 # modifications of the Arturia Beatstep Pro
-[<img src="media/arturia-beatstep-pro-mod-01.jpg" height="260" />](https://github.com/othmar52/beatstep-pro-breakout/blob/master/media/arturia-beatstep-pro-mod-01.jpg?raw=true)  
-[<img src="media/arturia-beatstep-pro-mod-02.jpg" height="260" />](https://github.com/othmar52/beatstep-pro-breakout/blob/master/media/arturia-beatstep-pro-mod-02.jpg?raw=true)  
-[<img src="media/arturia-beatstep-pro-mod-03.jpg" height="260" />](https://github.com/othmar52/beatstep-pro-breakout/blob/master/media/arturia-beatstep-pro-mod-03.jpg?raw=true)  
-[<img src="media/arturia-beatstep-pro-mod-04.jpg" height="260" />](https://github.com/othmar52/beatstep-pro-breakout/blob/master/media/arturia-beatstep-pro-mod-04.jpg?raw=true)  
+[<img src="media/arturia-beatstep-pro-mod-01.jpg" height="260" />](https://github.com/othmar52/beatstep-pro-breakout/blob/main/media/arturia-beatstep-pro-mod-01.jpg?raw=true)  
+[<img src="media/arturia-beatstep-pro-mod-02.jpg" height="260" />](https://github.com/othmar52/beatstep-pro-breakout/blob/main/media/arturia-beatstep-pro-mod-02.jpg?raw=true)  
+[<img src="media/arturia-beatstep-pro-mod-03.jpg" height="260" />](https://github.com/othmar52/beatstep-pro-breakout/blob/main/media/arturia-beatstep-pro-mod-03.jpg?raw=true)  
+[<img src="media/arturia-beatstep-pro-mod-04.jpg" height="260" />](https://github.com/othmar52/beatstep-pro-breakout/blob/main/media/arturia-beatstep-pro-mod-04.jpg?raw=true)  
 
 
 
